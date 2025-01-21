@@ -2,7 +2,7 @@
 
 Welcome to Shaikh Stock Price Data Visualization! 🚀
 
-This project leverages real-world stock market data to provide insightful visualizations and comprehensive company information. Perfect for recruiters and professionals interested in data science and finance. 
+This project leverages real-world stock market data to provide insightful visualizations and comprehensive company information. Perfect for anyone interested in data science and finance. 
 
 ## Features
 
@@ -33,7 +33,7 @@ To get started with this project, follow these steps:
    ```
 3. **Run the Streamlit app:**
    ```bash
-   streamlit run app.py
+   streamlit run Visualization.py
    ```
 
 ## Usage
@@ -49,5 +49,3 @@ To get started with this project, follow these steps:
 - Special thanks to the developers of `yfinance`, `Streamlit`, and other open-source libraries used in this project.
 
 Happy analyzing! 📈
-
-```
